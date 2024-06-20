@@ -36,4 +36,6 @@ Nos encantaría contar con tu colaboración:
 
 - 🧠 ¿Sabías que el cerebro humano contiene aproximadamente 86 mil millones de neuronas? ¡Eso es más que el número de estrellas en la Vía Láctea!
 ---
+## 📜 Código de Conducta
 
+Puedes revisar nuestro [Código de Conducta](https://github.com/Semillero-de-neuroinformatica/.github?tab=coc-ov-file) para asegurar un entorno seguro y acogedor para todos.
