@@ -24,19 +24,18 @@ Descubre algunos de nuestros proyectos en [nuestro sitio web](https://academia.u
 
 Nos encantaría contar con tu colaboración:
 
-- Revisa nuestras [guidelines de contribución](CONTRIBUTING.md).
 - Únete a nuestras reuniones y talleres.
 - Aporta tus ideas abriendo un [issue](issues).
 
 ### 📚 Recursos útiles
 
-- Documentación en nuestra [Wiki](wiki).
+
 - Contáctanos para más información a través de nuestros canales oficiales: Sneia@utp.edu.co.
 
 ### 🍿 Fun Facts
 
-¿Sabías que nuestro equipo disfruta de diferentes tipos de desayuno antes de empezar el día? Desde arepas colombianas hasta avena con frutas, la diversidad también se refleja en nuestra alimentación.
-
+- 🧠 ¿Sabías que el cerebro humano contiene aproximadamente 86 mil millones de neuronas? ¡Eso es más que el número de estrellas en la Vía Láctea!
 ---
+## 📜 Código de Conducta
 
-Recuerda que con el poder de [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), puedes hacer cosas increíbles. ¡Gracias por visitar nuestro repositorio!
+Puedes revisar nuestro [Código de Conducta](https://github.com/Semillero-de-neuroinformatica/.github?tab=coc-ov-file) para asegurar un entorno seguro y acogedor para todos.
